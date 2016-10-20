@@ -10,12 +10,12 @@
 
 $(document).ready(function(){
     var passengerNum = 1; 				//number of passengers
-    var passengerName = "sahil Narula";	//passenger's name
-    var passengerAge = "18";  				//passenger's age
+    var passengerName = "your name";	//passenger's name
+    var passengerAge = "your age";  				//passenger's age
     var passengerGender = "M";			//passenger's gender
     var berth = "";						//no preference, WS for window seat, SU for side upper
     var meal = "V";						//vegetarian
-    var mobile = "9047625462";			//mobile number
+    var mobile = "your mobile number";			//mobile number
     
     
     $('input[name="addPassengerForm:psdetail:0:psgnName"]').val(passengerName);
